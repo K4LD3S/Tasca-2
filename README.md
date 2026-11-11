@@ -9,8 +9,8 @@ Kill the Avocado 2 is a Virtual Reality / Mixed Reality application built with *
 
 | Name | GitHub |
 |---|---|
-| Isaac Oliver Monells | `@your-username` |
-| David Pau Caldés Bou | `@your-username` |
+| Isaac Oliver Monells | `@isaacolivermonells` |
+| David Pau Caldés Bou | `@K4LD3S` |
 
 **Tutor:** Marc Galvez
 
