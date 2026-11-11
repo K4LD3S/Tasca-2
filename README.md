@@ -81,7 +81,7 @@ The project started in class, where both members did the initial Unity + Meta XR
 
 ## Requirements
 
-- Unity (version: `X.X.X`)
+- Unity (version: `6.4.9 F1`)
 - Meta XR SDK (Building Blocks)
 - Meta Quest 3
 
