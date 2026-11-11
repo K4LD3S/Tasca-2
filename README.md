@@ -16,7 +16,7 @@ Kill the Avocado 2 is a Virtual Reality / Mixed Reality application built with *
 
 ## Download
 
-Everything is in the **[Releases page](RELEASE_LINK_HERE)**:
+Everything is in the:
 
 - APK for Meta Quest 3
 - Demo video recorded from the headset (shows the three activities)
@@ -87,7 +87,7 @@ The project started in class, where both members did the initial Unity + Meta XR
 
 ## Installing the APK
 
-1. Download the APK from the [Releases page](RELEASE_LINK_HERE).
+1. Download the APK from the.
 2. Enable developer mode on your Quest 3.
 3. Sideload the APK (e.g. with `adb install KillTheAvocado2.apk` or SideQuest).
 4. Launch it from *Unknown Sources* in the Quest library.
